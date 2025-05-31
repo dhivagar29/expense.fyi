@@ -68,7 +68,7 @@
 		"react": "18.2.0",
 		"react-day-picker": "^8.9.1",
 		"react-dom": "18.2.0",
-		"react-email": "1.9.5",
+		"react-email": "4.0.15",
 		"react-hotkeys-hook": "^4.4.1",
 		"resend": "^2.0.0",
 		"swr": "^2.2.4",
